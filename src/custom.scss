@@ -1,0 +1,28 @@
+//Background color for the body tag
+$body-bg: rgba(4, 75, 91, 0.1);
+
+//Colors
+$primary: #122272DD;
+$success: #4EA1D3;
+$secondary: #035384AA;
+$warning: #4EA1D3;
+$danger: #BC3347CC;
+$info: #7ad2ef;
+
+//Navbar
+$navbar-dark-color: #f3f3dc;
+$navbar-dark-hover-color: rgba(243, 243, 220, 0.75);
+$navbar-dark-active-color: rgba(243, 243, 220, 0.75);
+
+
+//Alerts
+$alert-bg-level: -10;
+$alert-color-level: 0;
+$alert-border-level: 0;
+
+//Input Group
+$input-group-addon-bg: $primary;
+$input-group-addon-color: #FFFFFF;
+
+
+@import "../node_modules/bootstrap/scss/bootstrap";

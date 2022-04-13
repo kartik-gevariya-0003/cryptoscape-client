@@ -1,0 +1,39 @@
+.logo-name {
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+.logo-name-small {
+    font-family: fantasy;
+    color: #f3f3dc;
+    font-size: 1.7rem;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.home-position {
+    position: relative;
+    left: 39px;
+}
+
+.main-position {
+    position: relative;
+    left: 73px;
+}
+
+.button-group {
+    height: fit-content;
+    display: flex;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.navbar-nav a:hover, .navbar-nav a:active {
+    text-decoration: none;
+}

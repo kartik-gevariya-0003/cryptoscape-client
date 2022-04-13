@@ -1,0 +1,11 @@
+.browse-table-image {
+  max-height: 50px;
+}
+
+.positive {
+  color: green;
+}
+
+.negative {
+  color: red;
+}

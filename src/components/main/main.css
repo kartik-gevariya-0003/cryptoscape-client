@@ -1,0 +1,23 @@
+.logo-image {
+    width: 70%;
+}
+
+.main-section {
+    color: #FFFFFF;
+    font-weight: 300;
+    font-size: 1.4em;
+}
+
+.row-container {
+    height: 50vh;
+    position: relative;
+}
+
+.vertical-align {
+    margin: 0;
+    top: 50%;
+}
+
+.particles-bg-canvas-self {
+    background: #122272;
+}

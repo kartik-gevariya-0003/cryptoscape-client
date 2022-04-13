@@ -1,0 +1,13 @@
+.performance {
+  border: 3px solid black;
+  padding-bottom: 5px;
+  height: 500;
+}
+
+.high {
+  color: green;
+}
+
+.low {
+  color: red;
+}
